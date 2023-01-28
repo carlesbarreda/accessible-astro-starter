@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "accessible-astro-components": "^1.6.1",
-    "astro-icon": "^0.7.3"
+    "astro-icon": "^0.8.0"
   },
   "devDependencies": {
-    "astro": "^1.6.3",
+    "astro": "^2.0.2",
     "sass": "^1.49.9"
   }
 }
